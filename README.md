@@ -1,6 +1,6 @@
 # Bellini Course Scheduling System
 
-[!Demo](demo.gif)
+![Demo](Demo.gif)
 
 A desktop application for managing course schedules at the Bellini College, 
 University of South Florida. Reads class data from Excel spreadsheets, 
